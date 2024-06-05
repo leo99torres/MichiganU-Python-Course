@@ -1,1 +1,1 @@
-# Python-Learning
+# Michigan University Python Course
